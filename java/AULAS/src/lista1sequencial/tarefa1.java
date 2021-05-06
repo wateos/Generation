@@ -1,16 +1,19 @@
-package sequencial;
+package lista1sequencial;
 
+import java.util.Locale;
 import java.util.Scanner;
 
-public class IdadeDias01 {
-	public static void main(String[] args) {
+public class tarefa1 {
+
+public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner leia = new Scanner(System.in);
 		
 		int dia;
 		int mes;
 		int ano;
 		int idade;
-		
-		Scanner leia = new Scanner(System.in);
 		
 		System.out.println("Qual o dia em q nasceu?");
 		dia = leia.nextInt();
