@@ -1,4 +1,4 @@
-package Lista4VetoresMatrizes;
+package lista4vetmatz;
 
 import java.util.Scanner;
 
