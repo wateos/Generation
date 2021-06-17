@@ -1,0 +1,15 @@
+/* index */
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header, nav { 
+    background-color: tomato;
+}
+
+body{
+    background-color: gray;
+}
